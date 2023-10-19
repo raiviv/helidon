@@ -1,0 +1,10 @@
+package com.arithmetic.multiplication;
+
+public class MultiplicationBLogic {
+	public int execute(int a, int b) {
+		System.out.println(" MultiplicationBLogic.execute(" + a + "," + b + ")");
+		return a * b;
+	}
+
+
+}

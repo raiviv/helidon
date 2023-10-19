@@ -1,0 +1,5 @@
+package io.helidon.example.jdbc;
+
+public class Main {
+
+}
